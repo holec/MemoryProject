@@ -6,10 +6,9 @@ import javafx.scene.control.Button;
 public class MainController {
 
     @FXML
-    private Button Start;
-    
+    private Button MainStart;
 
     @FXML
-    private Button Exit;
+    private Button MainExit;
 
 }

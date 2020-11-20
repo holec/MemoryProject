@@ -8,8 +8,8 @@
   <children>
     <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
       <children>
-            <Button fx:id="Start" layoutX="263.0" layoutY="102.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="98.0" text="Start" />
-            <Button fx:id="Exit" layoutX="279.0" layoutY="192.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="72.0" text="Exit" />
+            <Button fx:id="MainStart" layoutX="263.0" layoutY="102.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="98.0" text="Start" />
+            <Button fx:id="MainExit" layoutX="279.0" layoutY="192.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="72.0" text="Exit" />
       </children>
     </AnchorPane>
   </children>
